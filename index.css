@@ -1,0 +1,14 @@
+.checked {
+  text-decoration: line-through;
+  color: #ccc;
+}
+.li-des :hover {
+  color: violet;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.spanclass{
+cursor: pointer;
+}
+
